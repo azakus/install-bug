@@ -2,7 +2,7 @@
   "name": "install-bug",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "lib/lib",
   "scripts": {
     "install": "node scripts/install.js"
   },
