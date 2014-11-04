@@ -1,2 +1,1 @@
-var _ = require('lodash');
-exports.doTheThing = function(){ console.log('lodash:', _); };
+require('./lib/lib.js');
